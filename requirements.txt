@@ -1,6 +1,2 @@
-sklearn
 numpy
-matplotlib.pyplot
-pandas
-seaborn
 pickle
