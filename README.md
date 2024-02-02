@@ -1,12 +1,1 @@
----
-title: Regression Model
-emoji: ⚡
-colorFrom: purple
-colorTo: green
-sdk: gradio
-sdk_version: 4.1.1
-app_file: app.py
-pinned: false
----
-
-Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
+Hugging Face deployment: https://huggingface.co/spaces/karan99300/Regression_Model
